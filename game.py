@@ -5,7 +5,6 @@
 
 import pygame
 import game_functions as gf
-from maze import Maze
 from pacman import Pacman
 from startscreen import StartScreen
 from pygame.sprite import Group
